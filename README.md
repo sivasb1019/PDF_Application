@@ -18,4 +18,4 @@ Run the Python script to launch the GUI.
 Select PDF files and choose the desired PDF processing task.
 Make your PDF management tasks hassle-free with this versatile PDF Processor GUI!
 
-**NOTE:** You can also execute the application just by downloading and clicking "main.exe"
+**NOTE:** You can also execute the application just by downloading and clicking **"main.exe"**
